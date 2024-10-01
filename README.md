@@ -90,10 +90,10 @@ FILE_TYPE_FOLDERS = {
 }
 ```
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contributing
+## Contributing
 
 If you would like to contribute, feel free to fork the repository and submit a pull request. Any enhancements, bug fixes, or additional features are welcome!
