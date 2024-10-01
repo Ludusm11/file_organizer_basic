@@ -76,3 +76,24 @@ Upon running the script, you’ll see output similar to the following:
 
 ![image](https://github.com/user-attachments/assets/357eb3cc-e277-4b5f-8351-671a2d2b9036)
 
+
+
+## Customization
+
+You can add new file types or modify the existing categories by editing the `FILE_TYPE_FOLDERS` dictionary in the script:
+```python
+FILE_TYPE_FOLDERS = {
+    'Documents': ['.pdf', '.docx', '.txt'],
+    'Images': ['.jpg', '.jpeg', '.png'],
+    'Videos': ['.mp4', '.mov'],
+    'Audio': ['.aac', '.ogg', '.m4a'],  # Customize the Audio folder here
+}
+```
+
+##License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+##Contributing
+
+If you would like to contribute, feel free to fork the repository and submit a pull request. Any enhancements, bug fixes, or additional features are welcome!
